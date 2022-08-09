@@ -1,0 +1,1 @@
+Hola, mi nombre es Daniel Roffo, tengo 26 años y estudio la Tecnicatura en Programacion Informatica. Estoy de pasante en una startup como desarrollador Android, utilizando Kotlin. En mis tiempos libres me gusta ver series, tocar el piano o la bateria y trabajar en proyectos personales de programacion.
